@@ -111,4 +111,4 @@ header-includes:
 
 ![hugo](image/6.png){#fig:006 width=70%}
 
-![сайт](image/7.png){#fig:006 width=70%}
+![сайт](image/7.png){#fig:007 width=70%}
